@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>iOS Beta iPhone</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="100%" x2="0%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0.5" offset="0%"></stop>
+            <stop stop-color="#1B2836" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="120" height="120" rx="26"></rect>
+    </defs>
+    <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="iOS-Beta-iPhone">
+            <g id="Rectangle-3">
+                <use fill="#1DA1F2" xlink:href="#path-2"></use>
+                <use fill="url(#linearGradient-1)" style="mix-blend-mode: overlay;" xlink:href="#path-2"></use>
+            </g>
+            <g id="Group-2" transform="translate(6.000000, 6.000000)">
+                <g id="Group" transform="translate(54.000000, 54.000000) rotate(-45.000000) translate(-54.000000, -54.000000) translate(16.325581, 16.325581)" stroke="#FFFFFF" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+                    <path d="M12.5581395,37.6744186 C12.5581395,51.5457565 23.8030807,62.7906977 37.6744186,62.7906977 C51.5457565,62.7906977 62.7906977,51.5457565 62.7906977,37.6744186 C62.7906977,23.8030807 51.5457565,12.5581395 37.6744186,12.5581395" id="Oval-3"></path>
+                    <path d="M25.1162791,37.6744186 C25.1162791,44.6100876 30.7387497,50.2325581 37.6744186,50.2325581 C44.6100876,50.2325581 50.2325581,44.6100876 50.2325581,37.6744186 C50.2325581,30.7387497 44.6100876,25.1162791 37.6744186,25.1162791" id="Oval-3-Copy-3"></path>
+                    <path d="M0,37.6744186 C0,58.4814255 16.8674118,75.3488372 37.6744186,75.3488372 C58.4814255,75.3488372 75.3488372,58.4814255 75.3488372,37.6744186 C75.3488372,16.8674118 58.4814255,0 37.6744186,0" id="Oval-3-Copy"></path>
+                </g>
+                <circle id="Oval" fill="#FFFFFF" cx="54" cy="54" r="2.51162791"></circle>
+                <polyline id="Rectangle-7" stroke="#FFFFFF" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" transform="translate(21.348837, 54.000000) rotate(45.000000) translate(-21.348837, -54.000000) " points="8.79069767 41.4418605 33.9069767 41.4418605 33.9069767 66.5581395"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>
